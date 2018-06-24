@@ -64,6 +64,39 @@ declare global {
 declare global {
 
   namespace StencilComponents {
+    interface ListItem {
+      'count': number;
+    }
+  }
+
+  interface HTMLListItemElement extends StencilComponents.ListItem, HTMLStencilElement {}
+
+  var HTMLListItemElement: {
+    prototype: HTMLListItemElement;
+    new (): HTMLListItemElement;
+  };
+  interface HTMLElementTagNameMap {
+    'list-item': HTMLListItemElement;
+  }
+  interface ElementTagNameMap {
+    'list-item': HTMLListItemElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      'list-item': JSXElements.ListItemAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface ListItemAttributes extends HTMLAttributes {
+      'count'?: number;
+    }
+  }
+}
+
+
+declare global {
+
+  namespace StencilComponents {
     interface MyApp {
 
     }
