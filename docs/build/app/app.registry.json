@@ -1,0 +1,101 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.a0fgg8rr.js",
+  "corePolyfilled": "app.h30gjsux.js",
+  "components": {
+    "app-home": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-animation-controller": {
+      "$": "9237bzg1"
+    },
+    "ion-app": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-button": {
+      "ios": "fgguzavc",
+      "md": "uohekrbt"
+    },
+    "ion-buttons": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-content": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-gesture": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-gesture-controller": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-header": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-nav": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-ripple-effect": {
+      "ios": "fgguzavc",
+      "md": "uohekrbt"
+    },
+    "ion-route": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-router": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-scroll": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-status-tap": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-tap-click": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-title": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-toast": {
+      "md": "xfkxcxpt",
+      "ios": "f1vewe6c"
+    },
+    "ion-toast-controller": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    },
+    "ion-toolbar": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "ion-virtual-scroll": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "list-item": {
+      "ios": "xwncaqcy",
+      "md": "1t6vshu0"
+    },
+    "my-app": {
+      "ios": "6cfr5stp",
+      "md": "zmdbhs2m"
+    }
+  }
+}
